@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyMoney</string>
+    <string name="add_button">action_add</string>
+
 </resources>
